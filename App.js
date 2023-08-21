@@ -4,7 +4,7 @@ import Card from './components/Card';
 
 export default function App() {
   return (
-    <ScrollView style={{marginTop:30}}>
+    <ScrollView style={{marginTop:35}}>
 <Card/>
     </ScrollView>
   );
